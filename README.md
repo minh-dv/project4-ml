@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![<minh-dv>](https://circleci.com/gh/minh-dv/project4-ml.svg?style=svg)](https://circleci.com/gh/minh-dv/project4-ml)
 
 ## Project Overview
 
